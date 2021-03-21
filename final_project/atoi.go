@@ -1,3 +1,7 @@
+//Team 2
+//Name : Lakshmibhai H Deshpande 
+//SRN : PES1UG20EE083
+
 func myAtoi(str string) int {
 	var res int
 	var sign int = 1

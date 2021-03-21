@@ -1,3 +1,7 @@
+//TEAM :2
+//SRN:PES1UG20CS148
+//NAME:KRITHIKA G
+
 func maxArea(height []int) int {
 	res := 0
 	l := 0
